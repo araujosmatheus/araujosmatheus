@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**araujosmatheus/araujosmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matheus Araújo, I´m a Mechanical Engineer exploring the DataScience/BackEnd programming World
 
-Here are some ideas to get you started:
+#### Technologies & Tools
+[![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![jupyter notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)](https://jupyter.org/)
+[![pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)
+[![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### How to reach me
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/matheus-araújo-711a5418a/)
